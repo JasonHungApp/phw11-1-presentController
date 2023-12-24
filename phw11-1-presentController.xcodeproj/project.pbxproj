@@ -42,7 +42,7 @@
 		F3BEA9D02B38334700A05E68 = {
 			isa = PBXGroup;
 			children = (
-				F3BEA9DB2B38334700A05E68 /* phw11-1-iosSdkController */,
+				F3BEA9DB2B38334700A05E68 /* phw11-1-presentController */,
 				F3BEA9DA2B38334700A05E68 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F3BEA9DB2B38334700A05E68 /* phw11-1-iosSdkController */ = {
+		F3BEA9DB2B38334700A05E68 /* phw11-1-presentController */ = {
 			isa = PBXGroup;
 			children = (
 				F3BEA9DC2B38334700A05E68 /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				F3BEA9EA2B38334800A05E68 /* Info.plist */,
 				F3BEA9F02B384A7300A05E68 /* ViewController2.swift */,
 			);
-			path = "phw11-1-iosSdkController";
+			path = "phw11-1-presentController";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
